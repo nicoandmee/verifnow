@@ -2,6 +2,28 @@
   "$schema": "https://json.schemastore.org/package",
   "name": "verifnow",
   "version": "1.0.2",
+  "keywords": [
+    "verify",
+    "verification",
+    "confirmation",
+    "activation",
+    "authentication",
+    "auth",
+    "code",
+    "pin",
+    "otp",
+    "login",
+    "security",
+    "number",
+    "phone",
+    "phone number",
+    "sms",
+    "2fac",
+    "2factor",
+    "2-fac",
+    "2-factor",
+    "2-step"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nicoandmee/verifnow.git"
