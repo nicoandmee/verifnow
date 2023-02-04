@@ -36,7 +36,7 @@ Checks Line availability based on selected service and zip code (optional) combi
 
 #### Defined in
 
-core/api.ts:74
+[core/api.ts:74](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/api.ts#L74)
 
 ___
 
@@ -52,7 +52,7 @@ Returns username, credit balance and the last 100 transactions for your account.
 
 #### Defined in
 
-core/api.ts:51
+[core/api.ts:51](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/api.ts#L51)
 
 ___
 
@@ -69,7 +69,7 @@ NOTE: Do not call this endpoint in rapid succession to poll SMS, instead conside
 
 #### Defined in
 
-core/api.ts:63
+[core/api.ts:63](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/api.ts#L63)
 
 ___
 
@@ -92,4 +92,4 @@ Requests a new line with new services, zip code (optional) combination.
 
 #### Defined in
 
-core/api.ts:90
+[core/api.ts:90](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/api.ts#L90)

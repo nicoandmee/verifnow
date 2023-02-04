@@ -47,7 +47,7 @@
 
 #### Defined in
 
-core/connection.ts:57
+[core/connection.ts:57](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L57)
 
 ## Properties
 
@@ -57,7 +57,7 @@ core/connection.ts:57
 
 #### Defined in
 
-core/connection.ts:50
+[core/connection.ts:50](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L50)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-core/connection.ts:55
+[core/connection.ts:55](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L55)
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-core/connection.ts:49
+[core/connection.ts:49](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L49)
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-core/connection.ts:51
+[core/connection.ts:51](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L51)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-core/connection.ts:52
+[core/connection.ts:52](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L52)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-core/connection.ts:54
+[core/connection.ts:54](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L54)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-core/connection.ts:53
+[core/connection.ts:53](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L53)
 
 ## Methods
 
@@ -131,7 +131,7 @@ core/connection.ts:53
 
 #### Defined in
 
-core/connection.ts:91
+[core/connection.ts:91](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L91)
 
 ___
 
@@ -147,7 +147,7 @@ Retrieves the IDs of all users subscribed to SMS notifications
 
 #### Defined in
 
-core/connection.ts:147
+[core/connection.ts:147](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L147)
 
 ___
 
@@ -170,7 +170,7 @@ Emitted when an error occurs.
 
 #### Defined in
 
-core/connection.ts:18
+[core/connection.ts:18](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L18)
 
 ▸ **on**(`event`, `listener`): [`Connection`](Connection.md)
 
@@ -189,7 +189,7 @@ Emitted once subscribed to the websocket.
 
 #### Defined in
 
-core/connection.ts:24
+[core/connection.ts:24](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L24)
 
 ▸ **on**(`event`, `listener`): [`Connection`](Connection.md)
 
@@ -208,7 +208,7 @@ Emitted once unsubscribed from the websocket.
 
 #### Defined in
 
-core/connection.ts:30
+[core/connection.ts:30](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L30)
 
 ▸ **on**(`event`, `listener`): [`Connection`](Connection.md)
 
@@ -227,7 +227,7 @@ Emitted when a new SMS is received.
 
 #### Defined in
 
-core/connection.ts:35
+[core/connection.ts:35](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L35)
 
 ▸ **on**(`event`, `listener`): [`Connection`](Connection.md)
 
@@ -246,7 +246,7 @@ Emitted once per call to getRecentSMS.
 
 #### Defined in
 
-core/connection.ts:40
+[core/connection.ts:40](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L40)
 
 ▸ **on**(`event`, `listener`): [`Connection`](Connection.md)
 
@@ -265,7 +265,7 @@ Emitted once per call to getSubscribedUserIds.
 
 #### Defined in
 
-core/connection.ts:45
+[core/connection.ts:45](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L45)
 
 ___
 
@@ -283,7 +283,7 @@ Used to retrieve SMS messages for all subscribed user accounts received in the l
 
 #### Defined in
 
-core/connection.ts:169
+[core/connection.ts:169](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L169)
 
 ___
 
@@ -299,7 +299,7 @@ Subscribes to SMS notifications over this websocket connection.
 
 #### Defined in
 
-core/connection.ts:125
+[core/connection.ts:125](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L125)
 
 ___
 
@@ -315,4 +315,4 @@ Unsubscribe from SMS notifications over this websocket connection.
 
 #### Defined in
 
-core/connection.ts:99
+[core/connection.ts:99](https://github.com/nicoandmee/verifnow/blob/00b9ac6/src/core/connection.ts#L99)
